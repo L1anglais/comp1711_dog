@@ -2,3 +2,6 @@
 Code for Procedural Programming
 
 dog
+git add
+git commit -m "msg"
+git push
